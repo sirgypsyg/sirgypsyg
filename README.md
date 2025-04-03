@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**sirgypsyg/sirgypsyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Jakub**, a **Python Developer** passionate about **Machine Learning, Neural Networks, and AI**. Currently in my **6th semester of Computer Science at UMCS**, exploring deep learning, signal processing, and AI applications.  
 
-Here are some ideas to get you started:
+🚀 **What I'm working on:**  
+- Neural networks & deep learning projects  
+- AI-powered applications & research  
+- Exploring ML frameworks (TensorFlow, PyTorch)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **What I’m learning:**  
+- Advanced AI & ML techniques  
+- Signal processing & EEG data analysis  
+- Transformer models & NLP  
+
+💡 Always eager to collaborate and contribute to AI and ML projects!  
