@@ -4,7 +4,3 @@ I’m **Jakub**, a **Python Developer** passionate about **Machine Learning, Neu
 
 🚀 **What I'm currently working on:**  
 - Application of Temporal Convolutional Networks for EEG signal filtering.
-
-
-
-💡 Always eager to collaborate and contribute to AI and ML projects!  
